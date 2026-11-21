@@ -38,7 +38,7 @@ O sistema foi desenvolvido com separação de responsabilidades, utilizando Prog
 
 Projeto desenvolvido em conjunto por:
 
-1. **Arthur Ferreira de Oliveira ** – [GitHub]()
+1. **Arthur Ferreira de Oliveira ** – [GitHub](https://github.com/arthvieira)
 2. **Arthur Marinho Pereira Novais ** – [GitHub]()
 3. **Natan Ledo Alves Machado ** – [GitHub]()
 
