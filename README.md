@@ -40,7 +40,7 @@ Projeto desenvolvido em conjunto por:
 
 1. **Arthur Ferreira de Oliveira ** – [GitHub](https://github.com/arthvieira)
 2. **Arthur Marinho Pereira Novais ** – [GitHub](https://github.com/rthr-mrnh)
-3. **Natan Ledo Alves Machado ** – [GitHub]()
+3. **Natan Ledo Alves Machado ** – [GitHub](https://github.com/NatanLedo)
 
 ## Como executar o projeto
 
