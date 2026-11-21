@@ -1,4 +1,4 @@
-# PokemonSystem
+# Pokémon System
 
 ## Sobre o projeto
 
@@ -24,3 +24,27 @@ O projeto utiliza conceitos de Programação Orientada a Objetos (POO), organiza
 - **Tkinter:** criação da interface gráfica.
 - **SQLite:** gerenciamento e armazenamento dos dados.
 - **PokeAPI:** obtenção das imagens dos Pokémon.
+
+## Organização do projeto
+
+O sistema foi desenvolvido com separação de responsabilidades, utilizando Programação Orientada a Objetos (POO).
+
+- **Interface:** responsável pela interação com o usuário.
+- **Classes:** responsáveis pela organização e representação dos dados.
+- **Banco de dados:** responsável pelo armazenamento das informações.
+- **Conexão:** responsável pela comunicação entre o sistema e o banco de dados.
+
+## Integrantes do grupo
+
+Projeto desenvolvido em conjunto por:
+
+1. **Arthur Ferreira de Oliveira 1** – [GitHub](LINK_DO_GITHUB)
+2. **Arthur Marinho Pereira Novais 2** – [GitHub](LINK_DO_GITHUB)
+3. **Natan Ledo Alves Machado 3** – [GitHub](LINK_DO_GITHUB)
+
+## Como executar o projeto
+
+1. Instale o Python.
+2. Clone ou baixe este repositório.
+3. Instale as dependências necessárias.
+4. Execute o arquivo principal do projeto.
